@@ -1,0 +1,49 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-image: url(https://images.unsplash.com/photo-1490818387583-1baba5e638af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.psuedobody {
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  font-family: Sora;
+}
+
+.wellypic {
+  width: 15em;
+  height: 20em;
+}
+
+.beefwelly {
+  display: grid;
+}
+
+.orangechicky {
+  display: grid;
+}
+
+.lemmysalsa {
+  display: grid;
+}
+
+.orgchickpic {
+  width: 15em;
+  height: 20em;
+}
+
+.lemmysalpic {
+  width: 15em;
+  height: 20em;
+}
+
+.feet {
+  display: grid;
+  border-style: solid;
+}
